@@ -4,6 +4,8 @@ A QGIS plugin for locating and costing power substations near a point of interes
 
 Click anywhere on the map and the plugin draws dashed lines to every substation within your chosen radius, labeling each with its name, voltage level, straight-line distance, and estimated cable route cost for both 20 kV and 110 kV connections. Built for data center siting analysis but useful for any proximity assessment involving electrical infrastructure.
 
+Currencie in euros and price assumed to be by German standards.
+
 ---
 
 ## Features
